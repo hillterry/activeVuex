@@ -1,0 +1,4 @@
+export const CHANGE_QTY = 'CHANGE_QTY'
+export const INCREMENT_QTY = 'INCREMENT_QTY'
+export const DECREMENT_QTY = 'DECREMENT_QTY'
+export const CHECKED_ITEM = 'CHECKED_ITEM' 
